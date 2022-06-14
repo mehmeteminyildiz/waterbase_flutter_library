@@ -13,18 +13,18 @@ With the Flutter library developed by Waterbase engineers, you can send your req
 * http
 
 ### About Developers  
-Name Surname: Mehmet Emin Yıldız  
-Linkedin: [Linkedin Address](https://www.linkedin.com/in/yildizmehmetemin/)  
-Email: <mhmtxyildiz@gmail.com>
+**Name Surname:** Mehmet Emin Yıldız  
+**Linkedin:** [Linkedin Address](https://www.linkedin.com/in/yildizmehmetemin/)  
+**Email:** <mhmtxyildiz@gmail.com>
 
-Name Surname: Burak Tanrıverdi  
-Linkedin: [Linkedin Address](https://www.linkedin.com/in/burak-tanriverdi-4a502723b/)    
-Email: <btanriverdi.bt@gmail.com>    
+**Name Surname:** Burak Tanrıverdi  
+**Linkedin:** [Linkedin Address](https://www.linkedin.com/in/burak-tanriverdi-4a502723b/)    
+**Email:** <btanriverdi.bt@gmail.com>    
 
 
-Name Surname: Doğuş Güneş  
-Linkedin: [Linkedin Address](https://www.linkedin.com/in/do%C4%9Fu%C5%9F-g%C3%BCne%C5%9F-6845321a2/)  
-Email: <dogusgunes68@gmail.com> 
+**Name Surname:** Doğuş Güneş  
+**Linkedin:** [Linkedin Address](https://www.linkedin.com/in/do%C4%9Fu%C5%9F-g%C3%BCne%C5%9F-6845321a2/)  
+**Email:** <dogusgunes68@gmail.com> 
 
 
 
