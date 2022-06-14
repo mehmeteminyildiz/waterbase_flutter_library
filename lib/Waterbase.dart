@@ -44,7 +44,7 @@ class Waterbase {
   }
 
   wbRequest(String data, String link) async {
-    // 2 kullanıcı arasındaki mesajları getirir.
+    // 2 kullanıcı arasısndaki mesajları getirir.
     // lokal'deki PUBLIC_KEY ile karşılaştırıp ona göre
     // mesaj ekranında sol ya da sağ hizalama yapalım.
     var sp = await SharedPreferences.getInstance();
